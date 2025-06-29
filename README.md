@@ -40,7 +40,7 @@ This project is a visually engaging and interactive website for **Sidcup Family 
 ![Hero Section](https://github.com/Debjit1729/SIDECUP_Family_Golf_Website_Using_HTML_CSS_JavaScript/blob/main/Screenshot%202025-06-29%20235948.png)
 
 ### About Us Section
-![About Us](https://github.com/Debjit1729/SIDECUP_Family_Golf_Website_Using_HTML_CSS_JavaScript/blob/main/Screenshot%202025-06-29%20235948.png)
+![About Us](https://github.com/Debjit1729/SIDECUP_Family_Golf_Website_Using_HTML_CSS_JavaScript/blob/main/Screenshot%202025-06-30%20000854.png?raw=true)
 
 ### Services
 ![Services](https://github.com/Debjit1729/SIDECUP_Family_Golf_Website_Using_HTML_CSS_JavaScript/blob/main/Screenshot%202025-06-30%20001724.png)
