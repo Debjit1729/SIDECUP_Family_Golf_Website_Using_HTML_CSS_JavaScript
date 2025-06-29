@@ -57,7 +57,7 @@ This project is a visually engaging and interactive website for **Sidcup Family 
 ## Screenshots
 
 ### Hero Section
-![Hero Section](https://your-screenshot-url.com)
+![Hero Section][(https://your-screenshot-url.com)](https://github.com/Debjit1729/SIDECUP_Family_Golf_Website_Using_HTML_CSS_JavaScript/blob/main/Screenshot%202025-06-29%20235948.png)
 
 ### About Us Section
 ![About Us](https://your-screenshot-url.com)
