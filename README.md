@@ -34,26 +34,6 @@ This project is a visually engaging and interactive website for **Sidcup Family 
 ├── script.js      # JavaScript for interactivity and animations
 ```
 
-## Installation and Usage
-
-### Prerequisites
-- A web browser supporting modern standards.
-- An internet connection for external libraries.
-
-### Steps to Run
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd sidcup-family-golf
-   ```
-3. Open `index.html` in your browser:
-   ```bash
-   start index.html
-   ```
-
 ## Screenshots
 
 ### Hero Section
@@ -63,7 +43,7 @@ This project is a visually engaging and interactive website for **Sidcup Family 
 ![About Us](https://github.com/Debjit1729/SIDECUP_Family_Golf_Website_Using_HTML_CSS_JavaScript/blob/main/Screenshot%202025-06-29%20235948.png)
 
 ### Services
-![Services](https://your-screenshot-url.com)
+![Services](https://github.com/Debjit1729/SIDECUP_Family_Golf_Website_Using_HTML_CSS_JavaScript/blob/main/Screenshot%202025-06-30%20001724.png)
 
 ## Future Enhancements
 
